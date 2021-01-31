@@ -1,4 +1,4 @@
-# test_app
+# Flutter Quiz App
 
 A flutter basic quiz app following OOP approach.
 
