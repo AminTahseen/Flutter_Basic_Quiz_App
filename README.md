@@ -1,6 +1,6 @@
 # test_app
 
-A new Flutter project.
+A flutter basic quiz app following OOP approach.
 
 ## Getting Started
 
